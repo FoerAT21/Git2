@@ -1,7 +1,7 @@
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello World");
-        System.out.println("Andrew is stinky");
+        System.out.println("I am clearly cooler than you guys :)");
     }
 }
     
